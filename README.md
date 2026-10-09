@@ -18,8 +18,8 @@ HWID spoofer + cleaner for Roblox, by **5qlc**.
 ## Install
 
 ```bash
-git clone <your-repo-url>
-cd 5qlc-spoofer
+git clone https://github.com/rodlouis2-cloud/ROBLOXspoof
+
 Zero dependencies. Pure standard library.
 
 Usage
