@@ -16,14 +16,10 @@ HWID spoofer + cleaner for Roblox, by **5qlc**.
 - Admin rights (mandatory)
 
 ## Install
-
-```bash
-git clone https://github.com/rodlouis2-cloud/ROBLOXspoof
-
-Zero dependencies. Pure standard library.
+look at the video if u want
 
 Usage
-python spoofer.py
+
 Pick an option in the 5QLC menu. Reboot after spoofing.
 
 Author
