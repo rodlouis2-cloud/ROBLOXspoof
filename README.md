@@ -1,35 +1,30 @@
-# Roblox Spoofer | by 5qlc
-
-HWID spoofer + trace cleaner for **legal uses**.
+HWID spoofer + cleaner for Roblox, by **5qlc**.
 
 ## Features
 
-- Spoofs `MachineGuid` (registry)
-- Spoofs `HwProfileGuid` (registry)
-- Cleans Roblox logs and temp traces
-- Kills leftover Roblox processes
-- Flushes DNS cache
+| Option | What it does |
+|--------|--------------|
+| Full Spoof | HWID + traces + DNS in one go |
+| Spoof HWID | New MachineGuid + HwProfileGuid |
+| Clean traces | Deletes Roblox logs + kills processes |
+| Flush DNS | Clears cached DNS entries |
 
 ## Requirements
 
 - Windows 10 / 11
 - Python 3.10+
-- **Administrator privileges** (mandatory)
+- Admin rights (mandatory)
 
 ## Install
 
 ```bash
-git clone https://github.com/rodlouis2-cloud/ROBLOXspoof
-cd ROBLOXspoof
-No dependencies. Standard library only.
+git clone <your-repo-url>
+cd 5qlc-spoofer
+Zero dependencies. Pure standard library.
 
 Usage
-Right-click the script → Run as administrator
-Wait for [+] Done message
-Reboot your PC
-go to your ROBLOXspoof
-python 5qlcrobloxspoof.py
-Warning
-Always run as admin or registry writes will fail.
-Reboot is required for the new HWID to take effect.
-Use at your own risk.
+python spoofer.py
+Pick an option in the 5QLC menu. Reboot after spoofing.
+
+Author
+by 5qlc — all rights reserved.
