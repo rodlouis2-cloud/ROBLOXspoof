@@ -19,5 +19,17 @@ HWID spoofer + trace cleaner for **legal uses**.
 ## Install
 
 ```bash
-git clone <your-repo-url>
-cd <repo>
+git clone https://github.com/rodlouis2-cloud/ROBLOXspoof
+cd <ROBLOXspoof>
+No dependencies. Standard library only.
+
+Usage
+Right-click the script → Run as administrator
+Wait for [+] Done message
+Reboot your PC
+Launch 5qlc
+python spoofer.py
+Warning
+Always run as admin or registry writes will fail.
+Reboot is required for the new HWID to take effect.
+Use at your own risk.
