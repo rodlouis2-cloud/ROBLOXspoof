@@ -1,0 +1,25 @@
+# REQUIREMENTS
+Windows 10 or 11
+Python 3.10+ installed
+Admin access
+LAUNCH
+a) Right-click spoofer.py b) "Run as administrator" c) Click YES on the UAC prompt d) The 5QLC menu appears
+
+# MENU OPTIONS
+[1] FULL SPOOF (use this) Spoofs HWID + cleans traces + flushes DNS. All in one.
+
+[2] SPOOF HWID ONLY New MachineGuid + HwProfileGuid.
+
+[3] CLEAN TRACES ONLY Deletes Roblox logs, kills leftover processes.
+
+[4] FLUSH DNS ONLY Clears DNS cache.
+
+[0] EXIT
+
+## AFTER SPOOFING
+REBOOT YOUR PC. Mandatory.
+Then launch Roblox and play.
+TROUBLESHOOTING
+Admin error? -> relaunch as admin.
+Registry blocked? -> disable AV real-time protection, retry.
+Still flagged? -> reboot first, then spoof again + use a VPN.
