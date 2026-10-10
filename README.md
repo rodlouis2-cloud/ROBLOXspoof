@@ -20,7 +20,7 @@ look at the video if u want (video : https://gofile.io/d/Qrj3TzhL )
 
 Usage
 
-Pick an option in the 5QLC menu. Reboot after spoofing.
+Pick an option in the MISTHYCC menu. Reboot after spoofing.
 
 Author
-by 5qlc — all rights reserved.
+by Misthycc — all rights reserved.
