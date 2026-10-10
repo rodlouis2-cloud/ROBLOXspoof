@@ -23,3 +23,5 @@ TROUBLESHOOTING
 Admin error? -> relaunch as admin.
 Registry blocked? -> disable AV real-time protection, retry.
 Still flagged? -> reboot first, then spoof again + use a VPN.
+
+# TUTORIAL VIDEO : https://gofile.io/d/Qrj3TzhL
