@@ -16,7 +16,7 @@ HWID spoofer + cleaner for Roblox, by **5qlc**.
 - Admin rights (mandatory)
 
 ## Install
-look at the video if u want
+look at the video if u want (video : https://gofile.io/d/Qrj3TzhL )
 
 Usage
 
